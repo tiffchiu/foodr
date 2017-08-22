@@ -13,11 +13,12 @@ Foodr makes it easier for people to know what is in the food they eat. It allows
 * Victoria Chen ([@vrchen](http://github.com/vrchen))
 
 ## MVP Functionality
-This application was built with a decoupled architecture:
-  * [Rails back-end](https://github.com/tiffchiu/foodr/tree/master/foodr-backend) - PostgreSQL database deployed to Heroku 
-  * [React Native front-end web](https://github.com/tiffchiu/foodr/tree/master/foodr-backend) - iOS and Android platforms
+This application was built using decoupled architecture:
 
-  * [React Native Camera](https://github.com/lwansbrough/react-native-camera) - Open source React Native component for the camera and barcode scanning
+[Rails back-end](https://github.com/tiffchiu/foodr/tree/master/foodr-backend) - PostgreSQL database deployed to Heroku  
+[React Native front-end web](https://github.com/tiffchiu/foodr/tree/master/foodr-backend) - iOS and Android platforms
+
+[React Native Camera](https://github.com/lwansbrough/react-native-camera) - Open source React Native component for the camera and barcode scanning
 
 ## How to Use
 #### Logged In
