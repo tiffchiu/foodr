@@ -3,7 +3,7 @@
 ## Project Description
 Foodr makes it easier for people to know what is in the food they eat. It allows consumers to scan the UPC or QR codes of packaged food (using their phones) to quickly pull up a full list of ingredients as well as a food score. Each ingredient is marked as natural or artificial, and descriptions of each are written in a clear and easy-to-understand manner.
 
-<img src="https://user-images.githubusercontent.com/17535817/29544405-ab52cc38-869c-11e7-966c-02b4d4e91587.gif" alt="Profile" width="250">
+<img src="https://user-images.githubusercontent.com/17535817/29548681-906835c8-86b7-11e7-8634-27e5616ef0b0.gif" alt="Profile" width="250">
 
 
 ## Team Members
